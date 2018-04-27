@@ -1,1 +1,2 @@
-# Project2RealFiles
+# JSPlatformer
+JS Platformer for DIG 3480C
